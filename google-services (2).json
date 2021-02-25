@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "979990162950",
+    "project_id": "hello-fd12c",
+    "storage_bucket": "hello-fd12c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:979990162950:android:b011bcac995344f7631d87",
+        "android_client_info": {
+          "package_name": "com.example.hello"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "979990162950-38mf1ksagt5kla88ee5j9d8ss9ln0706.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCi25hyesXMDwiZS1DivlzSzW2kLGxNX2k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "979990162950-38mf1ksagt5kla88ee5j9d8ss9ln0706.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
